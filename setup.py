@@ -9,6 +9,6 @@ setup(
     description=description,
     author="MohammedTahar",
     author_email="hydconcept00@gmail.com",
-    url = "https://github.com/Easy2learnAI/pkgtest",
+    url = "https://github.com/Easy2learnAI/test0001",
     license = "MIT",
 )
