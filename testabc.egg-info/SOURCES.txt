@@ -1,6 +1,0 @@
-LICENSE
-setup.py
-testabc.egg-info/PKG-INFO
-testabc.egg-info/SOURCES.txt
-testabc.egg-info/dependency_links.txt
-testabc.egg-info/top_level.txt
